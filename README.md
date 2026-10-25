@@ -27,6 +27,7 @@
 - [Fotor Hairstyle Changer](https://fotor.com/features/hairstyle-changer/): Test different hairstyles on your face online with Fotor free AI haircut simulator.
 - [FluxAI](https://fluxai.art/features/hairstyle-changer): fluxai.art/features/hairstyle-changer
 - [AIHairstyles](https://aihairstyles.com/): Visualize countless styles before making a change.
+- [EasyFace AI](https://easyfaceai.com/): Browser-based AI hairstyle changer and face shape detector; try bangs, haircuts and colors on one selfie.
 - [BeautyPlus](https://beautyplus.com/ai-hairstyle): Try on and customize unlimited hairstyles, bangs, and popular hair colors for free with AI hair changer.
 - [MyEdit](https://myedit.online/en/photo-editor/ai-hairstyle): Try 43+ haircuts instantly.
 - [iFoto](https://ifoto.ai/ai-hairstyle-online-free): Try on hairstyles for free with AI haircut simulator for men and women.
